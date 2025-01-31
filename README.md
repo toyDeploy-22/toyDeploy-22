@@ -1,7 +1,7 @@
 
 ## 👋👋 Hi There !! ##
 
-_Welcome, here is my special place where I save and update my projects. If you want to see my student account, just click [here](https://github.com/eelismey-jf) 📚._
+_Welcome, here is my special place where I save and update my projects. If you want to see my student account, just click <a href="https://github.com/eelismey-jf" target="_blank">here</a> 📚._
 <br><br>
 _If you have any suggestions, feel free to contact me 🙋‍♂️ !_
 
