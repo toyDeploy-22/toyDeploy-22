@@ -1,7 +1,7 @@
 
 ## 👋👋 Hi There !! ##
 
-_Welcome, here is my special place where I save and update my projects. All repositories have a ```WELCOME.md``` file that provides details about the respective project 📑._
+_Welcome, here is my special place where I save and update my projects. Each repository has a ```README.md``` file that provides details about the respective project it belongs to 📑._
 <br><br>
 _If you want to see my student account, just click [here](https://github.com/eelismey-jf) 📚._
 <br><br>
