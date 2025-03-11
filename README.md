@@ -1,9 +1,8 @@
 
-## 👋👋 Hi There !! ##
+<h2 align="center">👋👋 Hi There !! </h2>
 
-<div style="font-family=cursive;">
-<p>Welcome, here is my special place where I save and update my projects. Each repository has a ```README.md``` file that provides details about the respective project it belongs to 📑.</p>
-</div>
+<p>Welcome, here is my special place where I save and update my projects. Each repository has a <code>README.md</code> file that provides details about the respective project it belongs to 📑.</p>
+
 <br><br>
 <div align="center">
 <p><i>If you want to see my student account, just <a href="https://github.com/eelismey-jf" target="_blank">click here</a>📚.</i></p>
